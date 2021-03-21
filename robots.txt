@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /local/
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+User-agent: Yahoo! Slurp
+Disallow: /local/
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+User-Agent: Googlebot
+Disallow: /local/
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+User-agent: Googlebot-Mobile
+Disallow: /local/
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+User-agent: Slurp
+Disallow: /local/
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+User-agent: bingbot
+Disallow: /local/
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+User-Agent: msnbot
+Disallow: /local/
+Disallow: /cgi-bin/
+Disallow: /assets/
+
+sitemap: http://www.monterstep.com/sitemap.xml

@@ -1,0 +1,9 @@
+[29-May-2012 23:55:46 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home2/monterst/public_html/monterstep.com/mail.php on line 66
+[29-May-2012 23:58:51 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home2/monterst/public_html/monterstep.com/mail.php on line 100
+[30-May-2012 00:01:01 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/monterst/public_html/monterstep.com/mail.php on line 254
+[30-May-2012 00:03:55 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/monterst/public_html/monterstep.com/mail.php on line 254
+[30-May-2012 00:05:30 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/monterst/public_html/monterstep.com/mail.php on line 254
+[30-May-2012 00:07:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/monterst/public_html/monterstep.com/mail.php on line 259
+[30-May-2012 02:07:52 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/monterst/public_html/monterstep.com/mail.php on line 82
+[30-May-2012 02:10:29 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/monterst/public_html/monterstep.com/mail.php on line 82
+[30-May-2012 02:11:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/monterst/public_html/monterstep.com/mail.php on line 234
